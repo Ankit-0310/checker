@@ -1,0 +1,1086 @@
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 02:30:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 02:30:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 02:30:27 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 02:33:05 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:33:05 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 02:33:12 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:33:13 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 02:33:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:33:18 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 02:33:21 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 02:33:22 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7472001693:AAGFLCbTe_TUVRavWEfH1czcqMfBTgXtTJM/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 02:33:23 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:33:23 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 02:33:45 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 02:33:46 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 02:33:46 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 11:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 11:44:53 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 11:44:53 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:46:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:46:13 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:46:26 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 11:46:26 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 11:46:27 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:46:27 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:46:48 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 11:46:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:46:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:47:03 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:47:03 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/redeem.php on line 33
+[15-Jul-2024 11:47:05 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:48:37 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:48:37 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/redeem.php on line 33
+[15-Jul-2024 11:48:39 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:51:07 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:51:09 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:51:09 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:52:33 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:52:35 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:52:35 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:54:24 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:54:26 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:54:26 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:55:20 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:55:20 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:55:33 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:55:33 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:55:38 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:55:40 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:55:40 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:56:38 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:56:40 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:56:40 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/kok.php on line 19
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/AdyenAuth.php on line 17
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 0$ .php on line 18
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 200$.php on line 18
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 25$.php on line 18
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 7$ .php on line 18
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 23
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/BraintreeAuthV2.php on line 25
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/PayPal0.01$.php on line 23
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 23
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 24
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 24
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 27
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 11:58:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 11:58:24 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 11:58:24 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:58:27 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:58:29 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:58:29 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:58:36 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 11:58:38 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:58:38 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 11:59:08 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 11:59:08 UTC] PHP Warning:  Undefined variable $randomArgument in /home/runner/Checker/function/remexp.php on line 10
+[15-Jul-2024 11:59:10 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:05:48 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 12:05:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:05:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:05:53 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:05:54 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:05:54 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:07:58 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:07:59 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:07:59 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:08:23 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:08:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:08:25 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:09:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:09:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:09:43 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:10:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:10:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:10:49 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:11 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:11:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:13 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:14 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:11:15 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:15 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:16 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:11:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:18 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:18 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:11:20 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:20 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:21 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:11:23 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:23 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:24 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 12:11:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:25 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:11:26 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 12:11:28 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:11:28 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/kok.php on line 19
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/AdyenAuth.php on line 17
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 0$ .php on line 18
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 200$.php on line 18
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 25$.php on line 18
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Authorize Net 7$ .php on line 18
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 23
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/BraintreeAuthV2.php on line 25
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/PayPal0.01$.php on line 23
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 23
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 24
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 24
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 27
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:12:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:12:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:12:13 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:12:19 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 12:12:21 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:12:21 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:12:23 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:12:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:12:25 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:12:29 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:12:30 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:12:30 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:12:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:12:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:12:59 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:13:12 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:13:13 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:13:13 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:13:24 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 59
+[15-Jul-2024 12:13:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:13:25 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:15:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:15:10 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:15:10 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:15:16 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 59
+[15-Jul-2024 12:15:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:15:18 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:15:23 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:15:24 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:15:24 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:22:57 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:22:57 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:26:08 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:26:10 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:26:10 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:27:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:27:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:39:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 12:39:31 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 12:39:31 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:40:46 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:40:48 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:40:48 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:40:49 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:40:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:40:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:40:51 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:40:53 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:40:53 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:41:37 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:41:38 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:41:38 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:42:55 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 59
+[15-Jul-2024 12:42:56 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:42:56 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:53:03 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 12:53:04 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:53:04 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 12:53:12 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 59
+[15-Jul-2024 12:53:14 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 12:53:14 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:23:57 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:23:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:23:58 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:23:58 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:24:57 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:24:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:24:58 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:24:58 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:26:12 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:26:13 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:26:14 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:26:14 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:27:36 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:27:37 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:27:37 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:27:37 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:28:04 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:28:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:28:05 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:28:05 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:28:22 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:28:22 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:28:23 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:28:23 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:28:49 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 98
+[15-Jul-2024 13:28:49 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 98
+[15-Jul-2024 13:28:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:28:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:31:39 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:31:39 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:31:40 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:31:40 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:31:51 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:31:51 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:31:52 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:31:52 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:37:04 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:37:05 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:37:06 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:37:06 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:37:15 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 13:37:16 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:37:16 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:48:44 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 13:48:46 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:48:46 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:48:49 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:48:50 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:48:50 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:48:50 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:48:54 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:48:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:48:55 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:48:55 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:49:00 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:49:00 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:50:53 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/sendVideo?chat_id=567134933&amp;video=https://tenor.com/view/luffy-wano-one-piece-onigashima-one-piece982-gif-22328635&amp;caption=%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2+%3Ccode%3E%40Cyberpunk_200%3C%2Fcode%3E+%F0%9D%98%81%F0%9D%97%BC+%EA%9C%B1+%CA%8F+%C9%B4+%E1%B4%9B+%E1%B4%80+x+x+Checker+%F0%9F%92%96%0D%0A+%0D%0A%E2%9C%85%F0%9D%99%94%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A7+%F0%9D%99%8D%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A0+-%3E%3E%3Ccode%3EOWNER%3C%2Fcode%3E%0D%0A%0D%0A+%F0%9D%98%BE%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%A0+%27%2Fcmds%27+%F0%9D%99%8F%F0%9D%99%A4+%F0%9D%98%BE%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%A0+%F0%9D%99%82%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%A8.&amp;parse_mode=HTML&amp;reply_markup={&quot;inline_keyboard&quot;:[[{&quot;text&quot;:&quot;\u21af \ud835\ude3d\ud835\ude50\ud835\ude54 \ud835\ude3c\ud835\ude3e\ud835\ude3e\ud835\ude40\ud835\ude4e\ud835\ude4e&quot;,&quot;url&quot;:&quot;https:\/\/t.me\/cyberpunk_200&quot;}]]}): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/index.php on line 750
+[15-Jul-2024 13:50:53 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:50:53 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:51:00 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:00 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:01 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/sendVideo?chat_id=567134933&amp;video=https://tenor.com/view/luffy-wano-one-piece-onigashima-one-piece982-gif-22328635&amp;caption=Welcome+To+++%EA%9C%B1+%CA%8F+%C9%B4+%E1%B4%9B+%E1%B4%80+x+x+.++Buy+The+Plan+First.++%2Fprice+%0D%0A++%0D%0A%F0%9D%98%BE%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%96%F0%9D%99%A5+%F0%9D%99%8B%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9A+%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%A1%E2%9C%85&amp;parse_mode=HTML&amp;reply_markup={&quot;inline_keyboard&quot;:[[{&quot;text&quot;:&quot;\ud835\ude42\ud835\ude3c\ud835\ude4f\ud835\ude40\ud835\ude52\ud835\ude3c\ud835\ude54\ud835\ude4e&quot;,&quot;callback_data&quot;:&quot;gates&quot;},{&quot;text&quot;:&quot;\ud835\ude4f\ud835\ude4a\ud835\ude4a\ud835\ude47\ud835\ude4e &quot;,&quot;callback_data&quot;:&quot;herr&quot;}],[{&quot;text&quot;:&quot;Cyberpunk_200&quot;,&quot;callback_data&quot;:&quot;channel&quot;}]]}): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 56
+[15-Jul-2024 13:51:01 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:51:01 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:51:05 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/sendVideo?chat_id=567134933&amp;video=https://tenor.com/view/luffy-wano-one-piece-onigashima-one-piece982-gif-22328635&amp;caption=Welcome+To+++%EA%9C%B1+%CA%8F+%C9%B4+%E1%B4%9B+%E1%B4%80+x+x+.++Buy+The+Plan+First.++%2Fprice+%0D%0A++%0D%0A%F0%9D%98%BE%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%96%F0%9D%99%A5+%F0%9D%99%8B%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9A+%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%A1%E2%9C%85&amp;parse_mode=HTML&amp;reply_markup={&quot;inline_keyboard&quot;:[[{&quot;text&quot;:&quot;\ud835\ude42\ud835\ude3c\ud835\ude4f\ud835\ude40\ud835\ude52\ud835\ude3c\ud835\ude54\ud835\ude4e&quot;,&quot;callback_data&quot;:&quot;gates&quot;},{&quot;text&quot;:&quot;\ud835\ude4f\ud835\ude4a\ud835\ude4a\ud835\ude47\ud835\ude4e &quot;,&quot;callback_data&quot;:&quot;herr&quot;}],[{&quot;text&quot;:&quot;Cyberpunk_200&quot;,&quot;callback_data&quot;:&quot;channel&quot;}]]}): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 56
+[15-Jul-2024 13:51:06 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:51:06 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:51:22 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:23 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:51:23 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:51:23 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:57:34 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:57:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:57:36 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/sendVideo?chat_id=567134933&amp;video=https://t.me/c/2220967601/2&amp;caption=Welcome+To+++%EA%9C%B1+%CA%8F+%C9%B4+%E1%B4%9B+%E1%B4%80+x+x+.++Buy+The+Plan+First.++%2Fprice+%0D%0A++%0D%0A%F0%9D%98%BE%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%96%F0%9D%99%A5+%F0%9D%99%8B%F0%9D%99%A7%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%9A+%F0%9D%99%9B%F0%9D%99%A4%F0%9D%99%A7+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%A1%E2%9C%85&amp;parse_mode=HTML&amp;reply_markup={&quot;inline_keyboard&quot;:[[{&quot;text&quot;:&quot;\ud835\ude42\ud835\ude3c\ud835\ude4f\ud835\ude40\ud835\ude52\ud835\ude3c\ud835\ude54\ud835\ude4e&quot;,&quot;callback_data&quot;:&quot;gates&quot;},{&quot;text&quot;:&quot;\ud835\ude4f\ud835\ude4a\ud835\ude4a\ud835\ude47\ud835\ude4e &quot;,&quot;callback_data&quot;:&quot;herr&quot;}],[{&quot;text&quot;:&quot;Cyberpunk_200&quot;,&quot;callback_data&quot;:&quot;channel&quot;}]]}): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 56
+[15-Jul-2024 13:57:36 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:57:36 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:57:52 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/sendVideo?chat_id=567134933&amp;video=https://t.me/c/2220967601/2&amp;caption=%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2+%3Ccode%3E%40Cyberpunk_200%3C%2Fcode%3E+%F0%9D%98%81%F0%9D%97%BC+%EA%9C%B1+%CA%8F+%C9%B4+%E1%B4%9B+%E1%B4%80+x+x+Checker+%F0%9F%92%96%0D%0A+%0D%0A%E2%9C%85%F0%9D%99%94%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A7+%F0%9D%99%8D%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A0+-%3E%3E%3Ccode%3EOWNER%3C%2Fcode%3E%0D%0A%0D%0A+%F0%9D%98%BE%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%98%F0%9D%99%A0+%27%2Fcmds%27+%F0%9D%99%8F%F0%9D%99%A4+%F0%9D%98%BE%F0%9D%99%9D%F0%9D%99%9A%F0%9D%99%98%F0%9D%99%A0+%F0%9D%99%82%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%A8.&amp;parse_mode=HTML&amp;reply_markup={&quot;inline_keyboard&quot;:[[{&quot;text&quot;:&quot;\u21af \ud835\ude3d\ud835\ude50\ud835\ude54 \ud835\ude3c\ud835\ude3e\ud835\ude3e\ud835\ude40\ud835\ude4e\ud835\ude4e&quot;,&quot;url&quot;:&quot;https:\/\/t.me\/cyberpunk_200&quot;}]]}): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/index.php on line 750
+[15-Jul-2024 13:57:52 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:57:52 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:58:07 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:58:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:58:08 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:58:08 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 13:59:45 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:59:45 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 13:59:47 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 13:59:47 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:17 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:32:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:32:17 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 16:32:17 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:25 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:26 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:32 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:32 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:42 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:32:43 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:32:44 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:44 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:32:57 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 98
+[15-Jul-2024 16:32:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 98
+[15-Jul-2024 16:32:58 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:32:58 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:33:20 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 16:33:21 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:33:21 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:34:16 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:34:16 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/redeem.php on line 33
+[15-Jul-2024 16:34:17 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:37:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:37:48 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 16:37:48 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/function/kok.php on line 61
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/kok.php on line 65
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/AdyenAuth.php on line 59
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/AdyenAuth.php on line 63
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 0$ .php on line 61
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 0$ .php on line 65
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 200$.php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 200$.php on line 64
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 25$.php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 25$.php on line 64
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Authorize Net 7$ .php on line 60
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Authorize Net 7$ .php on line 64
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 39
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree 3D LookUp.php on line 41
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Braintree1$Avs.php on line 3
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuth.php on line 3
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/BraintreeAuthV2.php on line 68
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/BraintreeAuthV2.php on line 74
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/PayPal0.01$.php on line 66
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/PayPal0.01$.php on line 72
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 66
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Payeezy 17$.php on line 72
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 67
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Stirpe 54$.php on line 73
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 67
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy + Striep 10$.php on line 73
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Undefined array key "message" in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:37:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 71
+[15-Jul-2024 16:37:59 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/gates/Shopfiy 8.25$.php on line 77
+[15-Jul-2024 16:37:59 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:38:01 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:38:01 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:38:18 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:38:18 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/redeem.php on line 23
+[15-Jul-2024 16:38:19 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:38:33 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 16:38:35 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:38:35 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:38:55 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/credits.php on line 44
+[15-Jul-2024 16:38:56 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:38:56 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:39:09 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/code.php on line 17
+[15-Jul-2024 16:39:10 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:39:10 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:53:13 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:53:14 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:53:14 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:53:14 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:54:07 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:54:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[15-Jul-2024 16:54:08 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:54:08 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 16:55:17 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 16:55:17 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 17:00:54 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[15-Jul-2024 17:00:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[15-Jul-2024 17:00:55 UTC] PHP Warning:  Undefined array key 1 in /home/runner/Checker/function/database.php on line 34
+[15-Jul-2024 17:00:55 UTC] PHP Parse error:  syntax error, unexpected variable "$update" in /home/runner/Checker/gates/Shopfiy+Braintree10$.php on line 66
+[15-Jul-2024 17:09:05 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 15:31:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 15:31:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 15:31:47 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 15:31:47 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 15:32:23 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:32:24 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:32:25 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 15:32:26 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 15:32:26 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 15:32:27 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 15:50:53 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:50:53 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=567134933&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:50:54 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 15:51:23 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:51:24 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 15:51:24 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:19:40 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:19:40 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:19:40 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:19:40 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:26:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:26:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:26:43 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:26:43 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:38:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:38:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:38:35 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:38:35 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:40:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:40:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:40:23 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:40:23 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:40:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:40:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:40:34 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:40:34 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:41:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:41:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:41:13 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:41:13 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 16:59:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 16:59:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 16:59:20 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 16:59:20 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 17:02:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 17:02:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 17:02:49 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 17:02:49 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 17:02:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 17:02:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 17:02:50 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 17:02:50 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 19:08:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 19:08:27 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 19:08:27 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:41 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:41 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:43 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:43 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:44 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:45 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:45 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:46 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:08:47 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:48 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:48 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:49 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:50 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:50 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:51 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:52 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:52 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:53 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:55 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:55 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:56 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:58 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:08:58 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:08:59 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:09:00 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:09:01 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:09:01 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:09:02 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:09:03 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:09:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:09:04 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:09:05 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:07 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:09:07 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:08 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:09 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:09:09 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:10 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 99
+[17-Jul-2024 19:09:11 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:11:09 UTC] PHP Warning:  Undefined variable $messageId in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:11:10 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7414301249:AAFsdAJoxCQMjDbL9W-wDERcXP5IdPGfNv8/deleteMessage?chat_id=984192016&amp;message_id=): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/runner/Checker/function/cmdsstart.php on line 53
+[17-Jul-2024 19:11:11 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:11:55 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:12:18 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:12:35 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:12:50 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:13:02 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:13:15 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:13:51 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:14:02 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:14:12 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:14:27 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:15:01 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:15:14 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:15:36 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:15:53 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:00 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:07 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:12 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 19:16:12 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 19:16:12 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 19:16:12 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:25 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:33 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:48 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:16:55 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[17-Jul-2024 19:16:55 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[17-Jul-2024 19:16:55 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[17-Jul-2024 19:16:55 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:17:04 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[17-Jul-2024 19:17:14 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 12:47:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[18-Jul-2024 12:47:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[18-Jul-2024 12:47:25 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[18-Jul-2024 12:47:25 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 12:47:30 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 12:47:35 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 15:19:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 19
+[18-Jul-2024 15:19:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 34
+[18-Jul-2024 15:19:58 UTC] PHP Deprecated:  preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated in /home/runner/Checker/function/cmdsstart.php on line 61
+[18-Jul-2024 15:19:58 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 15:20:03 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
+[18-Jul-2024 15:20:10 UTC] PHP Parse error:  Unclosed '{' on line 44 does not match ')' in /home/runner/Checker/function/code.php on line 59
